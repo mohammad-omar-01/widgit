@@ -1,1 +1,2 @@
 to be pulled from local
+newText has been added from local to the remote
